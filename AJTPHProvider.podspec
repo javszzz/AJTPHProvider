@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
     s.name         = "AJTPHProvider"
     s.summary      = "Helper for getting Philippines telco provider."
     s.requires_arc = true
+    s.platform = :ios, "8.0"
 
     # 2
     s.version = "1.0.0"
