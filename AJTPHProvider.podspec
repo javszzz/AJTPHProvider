@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
     s.platform = :ios, "8.0"
 
     # 2
-    s.version = "0.3.0"
+    s.version = "0.4.0"
 
     # 3
     s.license      = { :type => 'Apache License, Version 2.0', :text => <<-LICENSE
